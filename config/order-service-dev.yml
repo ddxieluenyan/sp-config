@@ -1,7 +1,15 @@
 spring:
   application:
     name: order-service
+<<<<<<< HEAD
     
+=======
+  rabbitmq:
+    host: 192.168.242.131
+    port: 5672
+    username: admin
+    password: admin  
+>>>>>>> branch 'master' of https://github.com/ddxieluenyan/sp-config.git
 # server:
 #  port: 8201
   
